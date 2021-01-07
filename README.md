@@ -1,4 +1,4 @@
-# CSharp_Design_Pattern_All_Three
+# CSharp_Design_Patterns_All_Three_Types
 
 Singleton_Pattern
 
