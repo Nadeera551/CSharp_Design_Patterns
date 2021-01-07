@@ -1,0 +1,13 @@
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\netcoreapp3.1\CSharpDesignPatterns.exe
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\netcoreapp3.1\CSharpDesignPatterns.deps.json
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\netcoreapp3.1\CSharpDesignPatterns.runtimeconfig.json
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\netcoreapp3.1\CSharpDesignPatterns.runtimeconfig.dev.json
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\netcoreapp3.1\CSharpDesignPatterns.dll
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\netcoreapp3.1\CSharpDesignPatterns.pdb
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\netcoreapp3.1\CSharpDesignPatterns.csprojAssemblyReference.cache
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\netcoreapp3.1\CSharpDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\netcoreapp3.1\CSharpDesignPatterns.AssemblyInfo.cs
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\netcoreapp3.1\CSharpDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\netcoreapp3.1\CSharpDesignPatterns.dll
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\netcoreapp3.1\CSharpDesignPatterns.pdb
+C:\Users\Nadeera\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\netcoreapp3.1\CSharpDesignPatterns.genruntimeconfig.cache

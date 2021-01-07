@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="com.factory\**" />
+    <Compile Remove="com.singleton\**" />
+    <EmbeddedResource Remove="com.factory\**" />
+    <EmbeddedResource Remove="com.singleton\**" />
+    <None Remove="com.factory\**" />
+    <None Remove="com.singleton\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+</Project>
