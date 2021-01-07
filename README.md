@@ -1,2 +1,4 @@
 # C-_Design_Pattern_All_Three
 Singleton_Pattern
+Factory_Pattern
+Template_Method_Pattern
